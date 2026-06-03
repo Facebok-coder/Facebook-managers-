@@ -1,0 +1,20 @@
+.login {
+  width: 800px;
+  background-color: aliceblue;
+  position: absolute;
+  z-index: 9999;
+  height: 100vh;
+  margin: auto;
+  padding: 50px 50px;
+  width: 700px;
+  border: 1px solid gray;
+  background-color: white;
+  border-radius: 5px; }
+
+.main_site {
+  position: relative; }
+
+.logout {
+  cursor: pointer; }
+
+/*# sourceMappingURL=login.min.css.map */
